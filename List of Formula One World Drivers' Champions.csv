@@ -1,0 +1,72 @@
+Season;Driver;Country;Age;Chassis;Engine;Tyres;Poles;Wins;Podiums;F. Laps;Points;% Points of All Available;Winning Race;All Races
+1950;Giuseppe Farina;Italy;44;Alfa Romeo;Alfa Romeo;Pirelli;2;3;3;3;30;47%;7;7
+1951;Juan Manuel Fangio;Argentina;40;Alfa Romeo;Alfa Romeo;Pirelli;4;3;5;5;31;51%;8;8
+1952;Alberto Ascari;Italy;34;Ferrari;Ferrari;Firestone Pirelli;5;6;6;6;36;74%;6;8
+1953;Alberto Ascari;Italy;35;Ferrari;Ferrari;Pirelli;6;5;5;4;34;57%;8;9
+1954;Juan Manuel Fangio;Argentina;43;Mercedes;Mercedes;Continetal;5;6;7;3;42;70%;7;9
+1955;Juan Manuel Fangio;Argentina;44;Mercedes;Mercedes;Continetal;3;4;5;3;40;65%;6;7
+1956;Juan Manuel Fangio;Argentina;45;Ferrari;Ferrari;Englebert;6;3;5;4;30;45%;8;8
+1957;Juan Manuel Fangio;Argentina;46;Maserati;Maserati;Pirelli;4;4;6;2;40;63%;6;8
+1958;Mike Hawthorn;United Kingdom;29;Ferrari;Ferrari;Englebert;4;1;7;5;42;49%;11;11
+1959;Jack Brabham;Australia;33;Cooper;Climax;Dunlop;1;2;5;1;31;41%;9;9
+1960;Jack Brabham;United States;34;Cooper;Climax;Dunlop;3;5;5;3;43;53%;8;10
+1961;Phil Hill;United Kingdom;34;Ferrari;Ferrari;Dunlop;5;2;6;2;34;52%;7;8
+1962;Graham Hill;United Kingdom;33;BRM;BRM;Dunlop;1;4;6;3;42;64%;9;9
+1963;Jim Clark;United Kingdom;27;Lotus;Climax;Dunlop;7;7;9;6;54;81%;7;10
+1964;John Surtees;United Kingdom;30;Ferrari;Ferrari;Dunlop;2;2;6;2;40;44%;10;10
+1965;Jim Clark;United Kingdom;29;Lotus;Climax;Dunlop;6;6;6;6;54;60%;7;10
+1966;Jack Brabham;United Kingdom;40;Brabham;Repco;Goodyear;3;4;5;1;42;55%;7;9
+1967;Denny Hulme;Australia;31;Brabham;Repco;Goodyear;0;2;8;2;51;51%;11;11
+1968;Graham Hill;New Zealand;39;Lotus;Ford;Firestone;2;3;6;0;48;44%;12;12
+1969;Jackie Stewart;United Kingdom;30;Matra;Ford;Dunlop;2;6;7;5;63;63%;8;11
+1970;Jochen Rindt;Austria;28;Lotus;Ford;Firestone;3;5;5;1;45;38%;12;13
+1971;Jackie Stewart;United Kingdom;32;Tyrrell;Ford;Goodyear;6;6;7;3;62;62%;8;11
+1972;Emerson Fittipaldi;Brazil;25;Lotus;Ford;Firestone;3;5;8;0;61;56%;10;12
+1973;Jackie Stewart;United Kingdom;34;Tyrrell;Ford;Goodyear;3;5;8;1;71;52%;13;15
+1974;Emerson Fittipaldi;Brazil;27;McLaren;Ford;Goodyear;2;3;7;0;55;40%;15;15
+1975;Niki Lauda;Austria;26;Ferrari;Ferrari;Goodyear;9;5;8;2;64;51%;13;14
+1976;James Hunt;United Kingdom;29;McLaren;Ford;Goodyear;8;6;8;2;69;47%;16;16
+1977;Niki Lauda;Austria;28;Ferrari;Ferrari;Goodyear;2;3;10;3;72;47%;15;17
+1978;Mario Andretti;United States;38;Lotus;Ford;Goodyear;8;6;7;3;64;44%;14;16
+1979;Jody Scheckter;South Africa;29;Ferrari;Ferrari;Michelin;1;3;6;0;51;44%;13;15
+1980;Alan Jones;Australia;34;Williams;Ford;Goodyear;3;5;10;5;67;56%;13;14
+1981;Nelson Piquet;Brazil;29;Brabham;Ford;Michelin Goodyear;4;3;7;1;50;37%;15;15
+1982;Keke Rosberg;Finland;34;Williams;Ford;Goodyear;1;1;6;0;44;30%;16;16
+1983;Nelson Piquet;Brazil;31;Brabham;BMW;Michelin;1;3;8;4;59;43%;15;15
+1984;Niki Lauda;Austria;35;McLaren;TAG;Michelin;0;5;9;5;72;50%;16;16
+1985;Alain Prost;France;30;McLaren;TAG;Goodyear;2;5;11;5;73;52%;14;16
+1986;Alain Prost;France;31;McLaren;TAG;Goodyear;1;4;11;2;72;51%;16;16
+1987;Nelson Piquet;Brazil;35;Williams;Honda;Goodyear;4;3;11;4;73;52%;15;16
+1988;Ayrton Senna;Brazil;28;McLaren;Honda;Goodyear;13;8;11;3;90;65%;15;16
+1989;Alain Prost;France;34;McLaren;Honda;Goodyear;2;4;11;5;76;56%;15;16
+1990;Ayrton Senna;Brazil;30;McLaren;Honda;Goodyear;10;6;11;2;78;54%;15;16
+1991;Ayrton Senna;Brazil;31;McLaren;Honda;Goodyear;8;7;12;2;96;56%;15;16
+1992;Nigel Mansell;United Kingdom;39;Williams;Renault;Goodyear;14;9;12;8;108;67%;11;16
+1993;Alain Prost;France;38;Williams;Renault;Goodyear;13;7;12;6;99;61%;14;16
+1994;Michael Schumacher;Germany;25;Benetton;Ford;Goodyear;6;8;10;8;92;57%;16;16
+1995;Michael Schumacher;Germany;26;Benetton;Renault;Goodyear;4;9;11;8;102;63%;15;17
+1996;Damon Hill;United Kingdom;36;Williams;Renault;Goodyear;9;8;10;5;97;60%;16;16
+1997;Jacques Villeneuve;Canada;26;Williams;Renault;Goodyear;10;7;8;3;81;47%;17;17
+1998;Mika Häkkinen;Finland;30;McLaren;Mercedes;Bridgestone;9;8;11;6;100;62%;16;16
+1999;Mika Häkkinen;Finland;31;McLaren;Mercedes;Bridgestone;11;5;10;6;76;47%;16;16
+2000;Michael Schumacher;Germany;31;Ferrari;Ferrari;Bridgestone;9;9;12;2;108;63%;16;17
+2001;Michael Schumacher;Germany;32;Ferrari;Ferrari;Bridgestone;11;9;14;3;123;72%;13;17
+2002;Michael Schumacher;Germany;33;Ferrari;Ferrari;Bridgestone;7;11;17;7;144;84%;11;17
+2003;Michael Schumacher;Germany;34;Ferrari;Ferrari;Bridgestone;5;6;8;5;93;58%;16;16
+2004;Michael Schumacher;Germany;35;Ferrari;Ferrari;Bridgestone;8;13;15;10;148;82%;14;18
+2005;Fernando Alonso;Spain;24;Renault;Renault;Michelin;6;7;15;2;133;70%;17;19
+2006;Fernando Alonso;Spain;25;Renault;Renault;Michelin;6;7;14;5;134;74%;18;18
+2007;Kimi Räikkönen;Finland;28;Ferrari;Ferrari;Bridgestone;3;6;12;6;110;64%;17;17
+2008;Lewis Hamilton;United Kingdom;23;McLaren;Mercedes;Bridgestone;7;5;10;1;98;54%;18;18
+2009;Jenson Button;United Kingdom;29;Brawn;Mercedes;Bridgestone;4;6;9;2;95;55%;16;17
+2010;Sebastian Vettel;Germany;23;Red Bull;Renault;Bridgestone;10;5;10;3;256;53%;19;19
+2011;Sebastian Vettel;Germany;24;Red Bull;Renault;Pirelli;15;11;17;3;392;82%;15;19
+2012;Sebastian Vettel;Germany;25;Red Bull;Renault;Pirelli;6;5;10;6;281;56%;20;20
+2013;Sebastian Vettel;Germany;26;Red Bull;Renault;Pirelli;9;13;16;7;397;83%;16;19
+2014;Lewis Hamilton;United Kingdom;29;Mercedes;Mercedes;Pirelli;7;11;16;7;384;76%;19;19
+2015;Lewis Hamilton;United Kingdom;30;Mercedes;Mercedes;Pirelli;11;10;17;8;381;80%;16;19
+2016;Nico Rosberg;Germany;31;Mercedes;Mercedes;Pirelli;8;9;16;6;385;73%;21;21
+2017;Lewis Hamilton;United Kingdom;32;Mercedes;Mercedes;Pirelli;11;9;13;7;363;72%;18;20
+2018;Lewis Hamilton;United Kingdom;33;Mercedes;Mercedes;Pirelli;11;11;17;3;408;77%;19;21
+2019;Lewis Hamilton;United Kingdom;34;Mercedes;Mercedes;Pirelli;5;11;17;6;413;75%;19;21
+2020;Lewis Hamilton;United Kingdom;35;Mercedes;Mercedes;Pirelli;10;11;14;6;347;83%;14;17
